@@ -1,0 +1,82 @@
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\931803.bolovin.denis.lab2.1-main\931803.bolovin.denis.lab2.1-main\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.StaticWebAssets.xml
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
